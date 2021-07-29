@@ -1,5 +1,11 @@
-# circles
+# Mini projects
 
-mostly circles...
+# Circles:
+
+mostly stationary  circles...
 
 sometimes they do stuff.
+
+
+# Basic sites
+
