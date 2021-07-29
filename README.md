@@ -11,9 +11,7 @@ sometimes they do stuff.
 
 # Basic sites
 
+Name page (basic main page/ index. html)
+
 book recs w/ links and text using https://loremipsum.io/
-
-
-# Art:
-
 
