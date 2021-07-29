@@ -12,5 +12,6 @@ sometimes they do stuff.
 book recs w/ links and text using https://loremipsum.io/
 
 
-# "Art":
+# Art:
 
+Mona Lisa (functions-objects folder)
